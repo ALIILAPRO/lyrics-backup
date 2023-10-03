@@ -3076,3 +3076,4 @@ Atlantis-Tricklebolt.html
 Sunday-Tricklebolt.html
 The_Wanderer-Tricklebolt.html
 Come_Along-Tricklebolt.html
+Open_the_Gate-Tricklebolt.html
