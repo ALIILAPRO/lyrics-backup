@@ -3077,3 +3077,4 @@ Sunday-Tricklebolt.html
 The_Wanderer-Tricklebolt.html
 Come_Along-Tricklebolt.html
 Open_the_Gate-Tricklebolt.html
+Warmer_Weather-Last_Train_To_Juarez.html
