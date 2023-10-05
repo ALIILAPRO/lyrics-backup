@@ -4631,3 +4631,4 @@ Necromanteum-Carnifex.html
 Crowned_In_Everblack-Carnifex.html
 The_Pathless_Forest-Carnifex.html
 How_The_Knife_Gets_Twisted-Carnifex.html
+Architect_Of_Misanthropy-Carnifex.html
