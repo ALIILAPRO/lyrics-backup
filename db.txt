@@ -8895,3 +8895,4 @@ Haircut-BETWEEN_FRIENDS.html
 Hideaway-Kiesza.html
 Monitor-Siouxsie_and_the_Banshees.html
 Night_Shift-Siouxsie_and_the_Banshees.html
+Arabian_Knights-Siouxsie_and_the_Banshees.html
