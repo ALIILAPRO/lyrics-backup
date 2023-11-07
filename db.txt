@@ -25534,3 +25534,4 @@ God_Send_Death-Slayer.html
 War_Ensemble-Slayer.html
 Blood_Red-Slayer.html
 Spirit_In_Black-Slayer.html
+Expendable_Youth-Slayer.html
