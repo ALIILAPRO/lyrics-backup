@@ -26373,3 +26373,4 @@ Chasing_Death-Slayer.html
 Exile-Slayer.html
 Threshold-Slayer.html
 Cast_Down-Slayer.html
+New_Faith-Slayer.html
